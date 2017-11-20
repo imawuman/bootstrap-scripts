@@ -7,6 +7,7 @@
 const params = process.argv.slice(2);
 
 function commandLine(arg) {
+    // TODO: implementation
     console.log("Running function with arg: " + arg);
 }
 

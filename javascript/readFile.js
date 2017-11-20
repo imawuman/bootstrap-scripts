@@ -18,5 +18,8 @@ if (params.length > 0) {
 
 function processFileLines(lines) {
     console.log("Printing file lines:")
-    lines.forEach((line) => console.log(line));
+    lines.forEach((line) => {
+        // TODO: implementation
+        console.log(line)
+    });
 }
