@@ -15,8 +15,8 @@ if (params.length > 0) {
 }
 
 function writeFile(filepath) {
-    console.log("Writing file to: " + filepath);
     // TODO: implementation
+    console.log("Writing file to: " + filepath);
     const content = "Hello World!";
     fs.writeFile(filepath, content, (err) => {
         if (err) {
