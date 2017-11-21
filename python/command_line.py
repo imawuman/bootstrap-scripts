@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
 # Usage: ./command_line.py [arg1] [arg2] ...
-"""Pass command line arguments to a script function"""
 
 def command_line(arg):
-    """Process the command line arguments"""
     # TODO: implementation
     print arg
 
