@@ -1,7 +1,5 @@
 # Prerequisites
-- `sudo easy_install pip`
-- `pip install virtualenv`
-- `virtualenv venv`
+- `python3 -m venv venv`
 
 # Setup
 - `source venv/bin/activate`

@@ -4,7 +4,7 @@
 
 def command_line(arg):
     # TODO: implementation
-    print arg
+    print(arg)
 
 if __name__ == "__main__":
     import sys
