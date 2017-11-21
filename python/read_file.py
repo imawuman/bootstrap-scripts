@@ -4,8 +4,8 @@
 
 def read_file(filepath):
     print "Printing file lines:"
-    with open(filepath) as f:
-        for line in f:
+    with open(filepath) as file_lines:
+        for line in file_lines:
             # TODO: implementation
             print line,
 
