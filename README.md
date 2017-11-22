@@ -1,6 +1,6 @@
-# bootstrap-scripts
+# template-scripts
 
-Repository containing several bootstrap script functionalities for various languages.
+Repository containing templates for common scripts in different languages.
 
 ### Functionality
 - `Command Line`: Invoke a script function using command line arguments as function parameters.
