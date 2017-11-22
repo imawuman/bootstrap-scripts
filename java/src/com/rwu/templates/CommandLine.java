@@ -1,10 +1,10 @@
 package com.rwu.templates;
 
+/**
+ * Usage: java -jar command-line.jar [arg]
+ */
 public class CommandLine {
 
-    /**
-     * Usage: java -jar command-line.jar [arg]
-     */
     public static void main(String[] args) {
         CommandLine cl = new CommandLine();
         cl.commandLine(args);
